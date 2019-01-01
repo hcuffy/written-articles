@@ -23,7 +23,7 @@ Luck was on my side, many of the mandatory side projects that took up much of my
 
 There was also an opportunity at the company I work at to participate in a crash course. I took this opportunity but it set me back a bit as we had reading goals and assignment projects there as well.
 
-One reason for not meeting my planned deadline was taking part in ‘fleetster University’. A code camp at the startup called Next Generation Mobility GmbH where I work as a Quality Assurance Engineer. The fleetster software is a cloud-based software with Corporate Carsharing, Public Carsharing, and fleet management solution. Over 20 years of combined programming knowledge was used to teach JavaScript, Ember and React to any participating member of the team. The intent was not only to share the knowledge but to improve the overall quality of the software.
+One reason for not meeting my planned deadline was taking part in ‘fleetster University’. A code camp at the startup called Next Generation Mobility GmbH where I work as a Quality Assurance Engineer. The fleetster software is a cloud-based software with Corporate Car-sharing, Public Car-sharing, and fleet management solution. Over 20 years of combined programming knowledge was used to teach JavaScript, Ember and React to any participating member of the team. The intent was not only to share the knowledge but to improve the overall quality of the software.
 
 This course was a four-month detour but it did help me to complete FCC. The projects became more complex and the four-month course at my company gave me more than enough know-how to finish those projects.
 
@@ -41,7 +41,7 @@ The following suggestions are for current and future students of FCC. They are i
 
 - A simple web search with any search engine of the subject matter or error message will lead you to other developers that experienced the same issue. Also, pay attention to the date of the issue as some may be outdated and cause even more problems.
 
-- Red the error logs/messages before attempting to fix the issue. There are two reasons for this.
+- Read the error logs/messages before attempting to fix the issue. There are two reasons for this.
 
 1. The cause of the error might be obvious to you in the message.
 2. After seeing the error multiple times and fixing it several times over and over again; it will bring you back to point “1”.
@@ -60,6 +60,6 @@ The following suggestions are for current and future students of FCC. They are i
 
 2. I mentioned before they added over 400 new challenges and believe me there are enough challenges to keep you busy for a while. You can always tackle those as they teach you different things.
 
-3. Search Github for some opensource projects and contribute to those. But again, this is more for seasoned developers and only makes sense if the project you chose has some sort of mentor or maintainer.
+3. Search Github for some Open-source projects and contribute to those. But again, this is more for seasoned developers and only makes sense if the project you chose has some sort of mentor or maintainer.
 
 4. Start a project of your own or solve a problem for someone who needs a solution. This is a good option to get the creative juices flowing and will most likely be the most fun. But even if it is fun don’t forget to plan it out.

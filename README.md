@@ -19,5 +19,5 @@ Articles using the LP/OP format report on simple situational observations and co
 **Participation**
 
 ```
-Anyone can create pull requests to correct any typos and/or grammar issue.
+Anyone can create pull requests to correct any typos and/or grammar issues.
 ```
